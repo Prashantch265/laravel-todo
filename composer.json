@@ -1,5 +1,5 @@
 {
-    "name": "laravel101",
+    "name": "laravel/laravel",
     "type": "project",
     "description": "A Full Stack ToDo application created using laravel",
     "keywords": ["framework", "laravel", "blade", "vue", "postgres"],
